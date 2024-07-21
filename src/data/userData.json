@@ -1,5 +1,47 @@
 [
-  null,
-  null,
-  null
+  {
+    "id": 1,
+    "firstname": "Sohel",
+    "lastname": "M",
+    "email": "sohelm14@gmail.com",
+    "phone": "7687434348",
+    "gender": "male",
+    "relationshipStatus": "single"
+  },
+  {
+    "id": 2,
+    "firstname": "Sarmin",
+    "lastname": "Khatun",
+    "email": "iamsarminkhatun@gmail.com",
+    "phone": "7047843840",
+    "gender": "female",
+    "relationshipStatus": "single"
+  },
+  {
+    "id": 3,
+    "firstname": "SHEFALI",
+    "lastname": "MALLIK",
+    "email": "shefalim476@gmail.com",
+    "phone": "7602037642",
+    "gender": "female",
+    "relationshipStatus": "committed"
+  },
+  {
+    "id": 4,
+    "firstname": "Amit",
+    "lastname": "Behere",
+    "email": "abehere.comm@gmail.com",
+    "phone": "5875875887",
+    "gender": "male",
+    "relationshipStatus": "single"
+  },
+  {
+    "id": 5,
+    "firstname": "Sana",
+    "lastname": "K",
+    "email": "sanak05@gmail.com",
+    "phone": "8349339443",
+    "gender": "female",
+    "relationshipStatus": "single"
+  }
 ]

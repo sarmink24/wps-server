@@ -10,6 +10,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.use(cors());
+app.use(express.json()); // Middleware to parse JSON data
 
 app.use("/api", sectionRoutes);
 app.use("/api", userDataRoutes);
